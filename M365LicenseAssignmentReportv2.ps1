@@ -37,6 +37,7 @@
                     - Added support for sending the report via email with customizable subject and body text.
     v2.7 - Added last successful sign-in information for each user.
     v2.8 - Correction about Date by HashTag
+    v2.9 - Add Country collum
                        
 .PRIVATEDATA
  
